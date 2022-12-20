@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HelveticaNeue-Bold.ttf",
+      "sha1": "6c93f7e97a15f89204f769cdc94c116301b26960"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeue-BoldItalic.ttf",
+      "sha1": "c6ff6476eccf889cfb3c59dc1bf1ddae8a69dd9f"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeue-Italic.ttf",
+      "sha1": "be226581848d6d20c648749e12daab86f6a4e289"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeue-Medium.ttf",
+      "sha1": "7bf159c3d69854e6282fd321d6ef4ed9a1b9339c"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeue-MediumItalic.ttf",
+      "sha1": "245322b2500eefe077b2b28ddc136ca6f23c7216"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeue.ttf",
+      "sha1": "bb8bc5736a917f03fa1619d040e5410a04a65de7"
+    }
+  ]
+}
